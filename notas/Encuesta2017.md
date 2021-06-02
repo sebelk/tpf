@@ -2,11 +2,6 @@
 
 ### Documentation is highly valued, but often overlooked
 
-Documentation helps orient newcomers: how to use a project,
- how to contribute back, the terms of use and contribution, and the 
-standards of conduct in a community. Improving that documentation is an 
-impactful way to contribute back to open source.
-
 Sirve para orientar a los recién llegados, como usar un proyecto, como contribuir de vuelta al proyecto, los términos de uso y contribución, y los estándares de conduta en una comunidad. Mejorar esa documentación tiene un impacto para colaborar en un proyecto.
 
 - Documentación incompleta o desactualizada es un problema importante, observado por la mayoría, aunque muchos de ellos dicen que raramente colaboran en la documentación.
