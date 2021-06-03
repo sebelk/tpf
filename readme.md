@@ -39,3 +39,20 @@ In the `docs` directory you can find everything you need to learn the basics of 
 [//end]: # "Referencias  a Enlaces autogenerados"
 
 
+[[news]]
+# Tipos de documentación
+La documentación en un proyecto de Software Libre es muy importante. Si un software tiene un excelente rendimiento, es robusto, pero carece de documentación o es obscura puede llegar a ser un obstáculo en la adopción del mismo.
+De acuerdo al aporte de Daniel Procida en [The documentation system — Documentation system documentation](https://documentation.divio.com/) existen 4 tipos bien definidos de documentación, los cuales son:
+- How-to's (Cómos)
+- Tutoriales
+- Guías de referencia
+- Explicaciones
+
+Cada uno de ellos tiene:
+- Un objetivo determinado.
+- Una acción benéfica determinada.
+- Características determinadas.
+Como ejemplo he decidido poner ejemplos concretos.
+## How-To: Cómo salir de VIM
+El video realizado fue hecho enteramente con Software Libre.
+Se puede ver aquí: https://youtu.be/0hMmdXetxXM 
