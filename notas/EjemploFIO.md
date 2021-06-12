@@ -1,13 +1,9 @@
 ## FIO
 
-fio es una herramienta que trabaja con la entrada y salida de datos que genera un número de hilos o procesos haciendo un tipo de tarea particular especificada por el usuario. fio toma un número de parámetros globales, cada una heredada por el hilo a menos que tenga otros parámetros . El uso común de fio es guardar un archivo de un proceso que coincide con la carga IO que se quiere simular.
 
-Su autor dice:
+El autor de [fio](https://github.com/axboe/fio), [Jens Axboe](https://github.com/axboe) dice:
 
-In my opinion, the biggest hole fio has (and probably a **lot** of other open source projects) is someone writing quality 
-documentation. My documentation isn't great, and lots of patches for 
-documentation may help make it a bit better, but it'll never be truly 
-awesome. Not a lot of tech writers seem to be attracted to open source 
-projects, I wish that wasn't the case.
+
+> En mi opinión, el agujero que más grande tiene (y probablemente un **montón** de otros proyectos open source) es alguien que escriba documentación de calidad. Mi documentación no es genial, y un montón de parches para documentación pueden ayudar a hacer un poco mejor, pero nunca será verdaderamente genial. No muchos escritores técnicos se sienten atraídos a proyectos open source, deseo que no fuera así. ps
 
 Fuente: [Struggling to write good documentation? Two open source developers weigh in - TechRepublic](https://www.techrepublic.com/article/struggling-to-write-good-documentation-two-open-source-developers-weigh-in/)
