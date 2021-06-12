@@ -66,4 +66,4 @@ Como ejemplo he decidido poner ejemplos concretos.
 El video realizado fue hecho enteramente con Software Libre.
 Se puede ver aquí: https://youtu.be/0hMmdXetxXM 
 
-En [[notas]] voy agregando lo que voy encontrando.
+En [[inbox]] voy agregando lo que voy encontrando.
