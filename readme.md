@@ -43,11 +43,12 @@ In the `docs` directory you can find everything you need to learn the basics of 
 
 # Propósitos del Trabajo Final
 
-Este repositorio corresponde al Trabajo Final de la carrera [Tecnicatura en Software Libre de la  UNL](http://www.unlvirtual.edu.ar/?portfolio=tecnicatura-en-software-libre).
+(Este repositorio corresponde al Trabajo Final de la carrera [Tecnicatura en Software Libre de la  UNL](http://www.unlvirtual.edu.ar/?portfolio=tecnicatura-en-software-libre).)
 
+- Documentar es una excelente manera de aprender sobre software libre.
 - ¿Por qué es importante la documentación en un proyecto de Software Libre?
 - Investigar los distintos tipos de documentación existentes.
-- La documentación como 
+
 
 # Tipos de documentación
 La documentación en un proyecto de Software Libre es muy importante. Si un software tiene un excelente rendimiento, es robusto, pero carece de documentación o es obscura puede llegar a ser un obstáculo en la adopción del mismo.
