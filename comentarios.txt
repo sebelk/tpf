@@ -1,0 +1,5 @@
+# Apertura del archivo en modo lectura
+# Lee e imprime la primera línea
+# Lee e imprime la segunda línea
+# Cerrar el archivo
+Sergio
